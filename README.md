@@ -3,4 +3,6 @@ Using Deep Learning Methods, we can use an End to End method (i.e. we can direct
 
 We achieve a final accuracy of 86% and respectable accuracies for each individual genre. The model for this was based on ConflictNET: https://qmro.qmul.ac.uk/xmlui/handle/123456789/60041
 
+This project was a university assignment and had to be presented in notebook format.
+
 Should you have any questions, please reach out.
